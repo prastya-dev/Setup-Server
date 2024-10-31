@@ -11,7 +11,9 @@ download config and copy to ./ssh
     $ pkg update && pkg upgrade
     $ pkg install cloudflare
     $ pkg install openssh
+    $ pkg install git 
+    $ git clone https://github.com/prastya-dev/Setup-Server/config
 
-download config , edit cloudflared/cloudflared.exe -> cloudflared
+ ~ edit cloudflared/cloudflared.exe -> cloudflared
 
     
