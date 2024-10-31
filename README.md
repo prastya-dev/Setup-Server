@@ -2,7 +2,6 @@
 For Setup my Server
 
 # Windows
- ## Download
     ## run on cmd:
     winget install --id Cloudflare.cloudflared
 
