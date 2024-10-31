@@ -3,8 +3,8 @@ For Setup my Server
 
 # Windows
  ## Download
-    run on cmd:
+    ### run on cmd:
     winget install --id Cloudflare.cloudflared
 
-    config to ./ssh
+    ### download config and copy to ./ssh
     
